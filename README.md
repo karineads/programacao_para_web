@@ -5,7 +5,7 @@ Este repositório contém a atividade desenvolvida na disciplina **Programação
  - Aula 02: programacao-web-aula02-Karine-Araujo.htm
 
 ## Prova 1 - **portifólio**
- - 
+ - https://karineads.github.io/Portifolio/
 
 ## Tecnologias utilizadas
  - HTML5  
